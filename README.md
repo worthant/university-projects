@@ -4,7 +4,7 @@ _Some of them may be in Russian!_
 
 - [My opensource organization](https://github.com/Imtjl) `Teamwork, opensource contribution, education`
 - [Programming](https://github.com/worthant/Java_labs) `Java, UML, CollectionFramework, Client-Server, PostgreSQL(JDBC), MultiThreading`  
-`+ JavaFX, AWT(Swing)`  
+`+ JavaFX, Yandex maps API, JavaScript, HTML`  
 - [Informatics](https://github.com/worthant/Informatics) `JSON, YAML, XML, MD, PROTOBUF, LaTeX, Excel/OnlyOffice, Python(+regex)`
 - [Professional fundamentals](https://github.com/worthant/OPD) `Bash, Assembly, Computer architecture, Unix-like OS`
 - [Databases](https://github.com/worthant/Databases-course) `Postrge SQL, ANSI-SPARC, SQL, index, trigger, function, query plan`
